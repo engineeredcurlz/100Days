@@ -1,5 +1,4 @@
-**Add a cover photo like:**
-![placeholder image](/Users/diamondjorsling/Documents/100days/100Days/1/image.jpg)
+<img src="image.jpg" width="1000" title="hover text">
 
 # How do you reduce defects, ease remediation, and improve flow into production?
 
